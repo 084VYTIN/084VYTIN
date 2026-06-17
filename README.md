@@ -41,9 +41,9 @@
   <h3>🌐 Conecte-se comigo</h3>
   
   <p align="center">
-    <a href="mailto:seu.email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-002244?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="COLE_AQUI_O_LINK_DO_SEU_PERFIL_DO_SPOTIFY" target="_blank"><img src="https://img.shields.io/badge/Spotify-002244?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
-    <a href="https://discord.com/users/COLE_AQUI_SEU_ID_NUMERICO_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-002244?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="vyctor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-002244?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://open.spotify.com/user/31wumcn5o5ga42lujin7dtr6ysc4?si=ca61ecfd6d6e4e17" target="_blank"><img src="https://img.shields.io/badge/Spotify-002244?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+    <a href="https://discord.com/users/989180839113916486" target="_blank"><img src="https://img.shields.io/badge/Discord-002244?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
     <a href="https://github.com/084VYTIN" target="_blank"><img src="https://img.shields.io/badge/GitHub-002244?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
