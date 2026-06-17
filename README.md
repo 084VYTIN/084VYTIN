@@ -1,12 +1,23 @@
-# Olá, eu sou o 084VYTIN! 👋
+<div align="center">
 
-Aqui você pode colocar uma frase curta sobre você. Por exemplo: "Desenvolvedor em constante aprendizado, focado em criar soluções criativas e automatizações."
+<img src="https://capsule-render.vercel.app/type=waving&color=007acc&height=120&section=header" alt="Banner" />
 
----
+# Olá Mundo, Eu sou o 084VYTIN! 👋
 
-### 🛠️ Minhas Tecnologias & Ferramentas
+### 🚀 Sobre Mim:
+Desenvolvedor focado em criar soluções criativas, automatizações e bots para o Discord. 🧑‍💻🚀
 
-Aqui vamos usar badges (escudos) para ficar bem visual. Substitua ou adicione as que você usa:
+![](https://komarev.com/ghpvc/?username=084VYTIN&color=007acc&style=flat-square&label=Profile+views)
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=084VYTIN&layout=compact&langs_count=7&theme=dark&title_color=ff0000&icon_color=007acc&text_color=ffffff&bg_color=0d1117" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=084VYTIN&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ff0000&icon_color=007acc&text_color=ffffff&bg_color=0d1117" alt="Estatísticas do GitHub" height="180em" />
+</p>
+
+### Habilidades tec 🚀
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -15,17 +26,8 @@ Aqui vamos usar badges (escudos) para ficar bem visual. Substitua ou adicione as
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-Esses gráficos atualizam sozinhos e mostram seus commits e linguagens mais usadas:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=084VYTIN&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=084VYTIN&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
-</p>
-
----
-
 ### 📫 Como me encontrar
 
-* 📧 vyctor2017hugo@gmail.com
+* 📧 [vyctor2017hugo@gmail.com](mailto:vyctor2017hugo@gmail.com)
+
+</div>
