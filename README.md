@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&text=puts%20%22084VYTIN%20🦈%22&animation=typing&fontColor=ffffff&fontSize=38&height=80" alt="Animação Typing" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&text=puts%20%22084VYTIN%20🦈%22&animation=typing&fontColor=ffffff&fontSize=38&height=80&v=1" alt="Animação Typing" />
   
   <p>Apenas um cara curtindo a jornada e me aventurando no mundo da programação 🚀</p>
 
