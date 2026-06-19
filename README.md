@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=084VYTIN&layout=compact&theme=dark&title_color=0052cc&icon_color=0052cc&cache_seconds=1800" alt="Top Languages" height="165" /><div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=084VYTIN&layout=compact&theme=tokyonight&hide=ruby&langs_count=8" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=084VYTIN&show_icons=true&theme=dark&title_color=0052cc&icon_color=0052cc" alt="GitHub Stats" height="165" />
   </p>
 
